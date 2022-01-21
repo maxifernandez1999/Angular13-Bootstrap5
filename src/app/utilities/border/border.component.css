@@ -1,0 +1,18 @@
+
+.border{
+    padding: 2%;
+    width: 200px;
+    height: 200px;
+    margin: 1%;
+}
+.border-top,.border-end,.border-botton,.border-start{
+    padding: 2%;
+    width: 200px;
+    height: 200px;
+    margin: 1%;
+}
+img{
+    width: 75px;
+    height:  75px;
+    margin: 1%;
+}
